@@ -1,4 +1,4 @@
 # gitsk
 
 
-stuppid bos
+stuppid bos i think
