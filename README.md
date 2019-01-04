@@ -1,1 +1,4 @@
 # gitsk
+
+
+stuppid bos
