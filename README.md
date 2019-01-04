@@ -1,4 +1,5 @@
 # gitsk
 
 
-stuppid bos i think
+
+what is wrong?
